@@ -29,8 +29,14 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam-1400&show_icons=true&locale=en&layout=compact" alt="Shivam-1400" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-1400&show_icons=true&locale=en" alt="Shivam-1400" /></p>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-1400&" alt="Shivam-1400" /></p>
+[![Shivam's GitHub stats](https://readme-stats.vercel.danielmolina.me/api?username=Shivam-1400&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!--   https://readme-stats.vercel.danielmolina.me -->
+
+  [![Most Used Languages](https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=Shivam-1400&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-1400&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
