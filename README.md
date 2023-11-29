@@ -32,11 +32,11 @@
 
 <p align="left">
 
-[![Shivam's GitHub stats](https://readme-stats.vercel.danielmolina.me/api?username=Shivam-1400&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shivam's GitHub stats](https://readme-stats.vercel.danielmolina.me/api?username=Shivam-1400&theme=radical&show_icons=true)]
   
 <!--   https://readme-stats.vercel.danielmolina.me -->
 
-  [![Most Used Languages](https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=Shivam-1400&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Most Used Languages](https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=Shivam-1400&layout=compact&theme=dracula)]
 
-  [![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-1400&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-1400&layout=compact&theme=dracula)]
 </p>
